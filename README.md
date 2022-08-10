@@ -41,7 +41,7 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 
 ## Authors
 
-- [@Saransh Bhaduka](https://github.com/saransh111)
+- [@Nitesh Kumar Gupta](https://github.com/Niteshgupta-NITK)
 
 
 # Architecture
